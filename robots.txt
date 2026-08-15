@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-juq5wb.koi888.sbs/sitemap.xml
